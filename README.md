@@ -15,20 +15,20 @@ _School Management System project is developed using C# and .Net Framework. The 
     
 ### App Screenshots:
 
-![login](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-16-28-738.jpg)
+![login](./Project%20ScreenShots/bandicam%202022-07-19%2013-16-28-738.jpg)
 
-![home](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-17-28-790.jpg)
+![home](./Project%20ScreenShots/bandicam%202022-07-19%2013-17-28-790.jpg)
 
-![home](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-21-09-500.jpg)
+![home](./Project%20ScreenShots/bandicam%202022-07-19%2013-21-09-500.jpg)
 
-![enroll](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-18-14-345.jpg)
+![enroll](./Project%20ScreenShots/bandicam%202022-07-19%2013-18-14-345.jpg)
 
-![attendence](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-19-05-489.jpg)
+![attendence](./Project%20ScreenShots/bandicam%202022-07-19%2013-19-05-489.jpg)
 
-![students](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-19-17-107.jpg)
+![students](./Project%20ScreenShots/bandicam%202022-07-19%2013-19-17-107.jpg)
 
-![teachers](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-19-31-647.jpg)
+![teachers](./Project%20ScreenShots/bandicam%202022-07-19%2013-19-31-647.jpg)
 
-![fees](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-19-46-336.jpg)
+![fees](./Project%20ScreenShots/bandicam%202022-07-19%2013-19-46-336.jpg)
 
-![users](https://github.com/HamzahTech553/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-19-53-936.jpg)
+![users](./Project%20ScreenShots/bandicam%202022-07-19%2013-19-53-936.jpg)
