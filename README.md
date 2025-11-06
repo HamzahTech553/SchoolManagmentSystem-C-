@@ -31,4 +31,4 @@ _School Management System project is developed using C# and .Net Framework. The 
 
 ![fees](https://github.com/MuhammadDaniyal32/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-19-46-336.jpg)
 
-![users](https://github.com/MuhammadDaniyal32/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-19-53-936.jpg)
+![users](https://github.com/SchoolManagmentSystem-WinFormApp/blob/main/Project%20ScreenShots/bandicam%202022-07-19%2013-19-53-936.jpg)
